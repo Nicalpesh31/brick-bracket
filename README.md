@@ -1,4 +1,4 @@
-<h2>BrickBracket</h2>
+<h2>Brick Bracket</h2>
 
 BrickBracket is a simple arcade-style game developed using Java AWT. 
 The game features a classic brick-breaking gameplay mechanic where 
