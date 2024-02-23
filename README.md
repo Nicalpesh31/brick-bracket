@@ -3,6 +3,7 @@
 BrickBracket is a simple arcade-style game developed using Java AWT. 
 The game features a classic brick-breaking gameplay mechanic where 
 the player controls a paddle to bounce a ball and break bricks arranged at the top of the screen.
+<h6>Code URL: </h6> https://github.com/Nicalpesh31/brick-bracket
 
 <h6>Features:</h6>
 Classic brick-breaking gameplay: Break bricks by bouncing a ball off a paddle.
